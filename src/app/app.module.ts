@@ -11,9 +11,10 @@ import {
 } from './shared';
 import { AppRoutingModule } from './app-routing.module';
 import { CoreModule } from './core/core.module';
+import { FormComponent } from './form/form.component';
 
 @NgModule({
-  declarations: [AppComponent, FooterComponent, HeaderComponent],
+  declarations: [AppComponent, FooterComponent, HeaderComponent, FormComponent],
   imports: [
     BrowserModule,
     CoreModule,
