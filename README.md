@@ -4,6 +4,8 @@
 L'objectif de ce TP était d'intégrer une fonctionnalité à un projet déjà existant. 
 Malheureusement, le projet n'a pas pu être mené à terme en raison de problèmes de compatibilité et de problèmes au niveau de chemins. 
 
+La version originale de ce projet est trouvable ici : ```https://github.com/gothinkster/angular-realworld-example-app```.
+
 Mon but était d'intégrer un formulaire au sein de la page permettant de créer un nouvel utilisateur et d'avoir une sauvegarde des utilisateurs créés afin d'assurer une authentification.
 
 Pour ceci, j'ai créé un nouveau composant avec ```ng `generate component form``.
